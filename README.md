@@ -1,6 +1,6 @@
 
-# XBoil
-XBoil is a computational framework for the systematic evaluation of heat flux partitioning (HFP) models and associated bubble dynamics sub-models used in nucleate boiling modelling.
+# XBOIL
+XBOIL is a computational framework for the systematic evaluation of heat flux partitioning (HFP) models and associated bubble dynamics sub-models used in nucleate boiling modelling.
 
 The framework was developed to enable large-scale assessment of boiling closure combinations against experimental data.
 
@@ -24,5 +24,5 @@ The full code and dataset will be released following publication of the paper.
 ## Contact
 For questions or collaboration inquiries, please contact:
 Omid Bidar
-o.bidar@sheffield.ac.uk
+(o.bidar@sheffield.ac.uk)
 University of Sheffield
