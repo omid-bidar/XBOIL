@@ -86,6 +86,12 @@ Models evaluated in the associated publication are listed first. Models added af
 | Wait time | MIT/Kommajosyula (2020), van Stralen et al. (1975) |
 | Single-phase convection | Churchill & Chu (1975), Gnielinski (1976) |
 
+## License
+
+Copyright (C) 2026 Omid Bidar and Marco Colombo
+
+XBOIL is licensed under the GNU General Public License v3.0. See [LICENSE](LICENSE) for details.
+
 ## Contact
 
 Dr Omid Bidar, University of Sheffield
