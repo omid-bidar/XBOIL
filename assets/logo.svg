@@ -1,0 +1,38 @@
+<svg width="680" height="168" viewBox="0 0 680 168" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>XBOIL</title>
+<desc>XBOIL heat flux partitioning framework logo</desc>
+<defs>
+  <linearGradient id="tg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%"   stop-color="#C0D9EF"/>
+    <stop offset="100%" stop-color="#FAD9A8"/>
+  </linearGradient>
+  <clipPath id="fz">
+    <rect x="26" y="26" width="130" height="90"/>
+  </clipPath>
+</defs>
+
+<path d="M 32,26 Q 26,26 26,32 V 116 H 156 V 32 Q 156,26 150,26 Z" fill="url(#tg)" stroke="rgba(0,0,0,0.1)" stroke-width="0.5"/>
+<path d="M 26,116 H 156 V 124 Q 156,127 153,127 H 29 Q 26,127 26,124 Z" fill="#484848"/>
+
+<circle cx="67"  cy="121" r="2"   fill="#777" opacity="0.9"/>
+<circle cx="91"  cy="121" r="2.5" fill="#777" opacity="0.9"/>
+<circle cx="115" cy="121" r="2"   fill="#777" opacity="0.9"/>
+
+<circle cx="91" cy="116" r="30" fill="rgba(255,255,255,0.45)" stroke="#2475A8" stroke-width="1.8" clip-path="url(#fz)"/>
+<circle cx="82" cy="101" r="3" fill="white" opacity="0.7"/>
+
+<circle cx="59" cy="63" r="9" fill="rgba(255,255,255,0.4)" stroke="#2475A8" stroke-width="1.5" clip-path="url(#fz)"/>
+<circle cx="55" cy="58" r="2.2" fill="white" opacity="0.7"/>
+
+<path d="M 67,158  C 71,150 63,142 67,139" fill="none" stroke="#D95319" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M 91,158  C 95,150 87,142 91,139" fill="none" stroke="#D95319" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M 115,158 C 119,150 111,142 115,139" fill="none" stroke="#D95319" stroke-width="2.5" stroke-linecap="round"/>
+
+<polygon points="62,139 67,127 72,139"    fill="#D95319"/>
+<polygon points="86,139 91,127 96,139"    fill="#D95319"/>
+<polygon points="110,139 115,127 120,139" fill="#D95319"/>
+
+<text font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700" y="112" fill="#1a1a1a">
+  <tspan x="176">XBOIL</tspan>
+</text>
+</svg>
